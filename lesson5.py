@@ -1,5 +1,9 @@
 ### Урок 5: Списки в Python
 
+# changes for Aziza
+# changes for Jahongir
+# changes for Shabdan
+
 # 1. Введение в списки
 # - Что такое список?
 # - Отличие списка от других типов данных
